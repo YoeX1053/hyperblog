@@ -1,0 +1,3 @@
+Este archivo es la version 1.0
+
+aprendiendo git con Platzi
