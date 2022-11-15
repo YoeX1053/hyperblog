@@ -3,3 +3,5 @@ Este archivo es la version 2.0
 modificada por Jose Gonzalez .
 
 aprendiendo git con Platzi
+
+agregando un nuevo comentario en la linea numero 7.
