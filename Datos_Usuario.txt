@@ -1,0 +1,9 @@
+##Este archivo contiene la informacion de Jose Gonzalez
+
+Nombre:
+Apellido:
+Documento:
+Edad:
+Telefono:
+Profecion:
+Descripcion:
