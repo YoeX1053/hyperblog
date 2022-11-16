@@ -1,6 +1,6 @@
 ##Este archivo contiene la informacion de Jose Gonzalez
 
-Nombre:
+Nombre: Jose 
 Apellido:
 Documento:
 Edad:
