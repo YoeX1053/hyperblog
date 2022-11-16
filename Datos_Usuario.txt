@@ -2,8 +2,8 @@
 
 Nombre: Jose 
 Apellido: Gonzalez
-Documento:
-Edad:
-Telefono:
+Documento: 1146436000
+Edad: 30
+Telefono: 3193113794
 Profecion:
 Descripcion:
