@@ -4,6 +4,8 @@ modificada por Jose Gonzalez .
 
 Modificado por JoGonzalezP92 desde la web.
 
+Modificado por JoGonzalezp92 desde un Fork.
+
 aprendiendo git con Platzi
 
 agregando un nuevo comentario en la linea numero 7.
